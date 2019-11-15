@@ -4,7 +4,7 @@
     id          = "com.thptdh.TrangApp"
     versionCode = "10"
     version     = "1.0.0" >
-
+<platform name="android" />
 <!-- versionCode is optional and Android only -->
 
   <name>T-ENGLISH10</name>
